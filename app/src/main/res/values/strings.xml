@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Indra UTS</string>
+    <string name="move_activity">mulai</string>
+    <string name="move_with_data">tentang</string>
+    <string name="this_ismove_activity">    Logo-Logo</string>
+    <string name="go_return">kembali</string>
+    <string name="title_1">Logo Indra</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="social_media">Social Media</string>
+
 </resources>
